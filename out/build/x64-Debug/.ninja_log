@@ -1,0 +1,13 @@
+# ninja log v5
+9	137	7133692741370441	go_cpp/goGO_wrap.cxx	c91782544e4d28a4
+9	137	7133692741370441	C:/Users/v-omarkhalil/Desktop/Work/CMake_SWIG/out/build/x64-Debug/go_cpp/goGO_wrap.cxx	c91782544e4d28a4
+138	523	7133692745424022	CMakeFiles/go-adder.dir/go_cpp/goGO_wrap.cxx.obj	245c5bcdda9bdd4e
+4	674	7133692746820436	CMakeFiles/CMake_SWIG.dir/CMake_SWIG.cpp.obj	c18fe20ac2a3531e
+675	725	7133692747336316	CMake_SWIG.lib	79f84698cc0f2f8c
+524	1934	7133692745424022	go-adder.dll	d9ee0ecbc8926fc8
+524	1934	7133692745424022	go-adder.lib	d9ee0ecbc8926fc8
+18	391	7133693725564952	CMakeFiles/go-adder.dir/go_cpp/goGO_wrap.cxx.obj	245c5bcdda9bdd4e
+13	651	7133693728126731	CMakeFiles/CMake_SWIG.dir/CMake_SWIG.cpp.obj	c18fe20ac2a3531e
+651	705	7133693728604028	CMake_SWIG.lib	79f84698cc0f2f8c
+394	1653	7133693725564952	go-adder.dll	d9ee0ecbc8926fc8
+394	1653	7133693725564952	go-adder.lib	d9ee0ecbc8926fc8

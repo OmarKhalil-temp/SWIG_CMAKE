@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CMake_SWIG",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CMake_SWIG::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CMake_SWIG-Debug-c6749115f8b86fbec3ff.json",
+					"name" : "CMake_SWIG",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "go-adder::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-go-adder-Debug-a6b9881f9802d1519fe0.json",
+					"name" : "go-adder",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/v-omarkhalil/Desktop/Work/CMake_SWIG/out/build/x64-Debug",
+		"source" : "C:/Users/v-omarkhalil/Desktop/Work/CMake_SWIG"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

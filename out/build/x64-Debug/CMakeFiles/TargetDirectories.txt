@@ -1,0 +1,4 @@
+C:/Users/v-omarkhalil/Desktop/Work/CMake_SWIG/out/build/x64-Debug/CMakeFiles/CMake_SWIG.dir
+C:/Users/v-omarkhalil/Desktop/Work/CMake_SWIG/out/build/x64-Debug/CMakeFiles/go-adder.dir
+C:/Users/v-omarkhalil/Desktop/Work/CMake_SWIG/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/v-omarkhalil/Desktop/Work/CMake_SWIG/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
