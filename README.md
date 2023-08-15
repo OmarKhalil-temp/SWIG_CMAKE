@@ -2,7 +2,8 @@ Minimum Requirements: <br>
     1- CMake v3.8 or higher. <br>
     2- SWIG Library v4.1.1. <br>
         Download link: https://swig.org/download.html <br>
-        How to install SWIG: https://open-box.readthedocs.io/en/latest/installation/install_swig.html<br><br>
+        How to install SWIG: https://open-box.readthedocs.io/en/latest/installation/install_swig.html<br>
+    3- GCC Compiler<br><br>
     
 How to build the project: <br>
     1- Open Visual Studio.<br>
